@@ -1,6 +1,6 @@
 # 5620-model-based-software-review-notes
 ## Weekly lecture notes
-* [0 Contents](#0)
+* [0 `Contents`](#0)
 * [1 week 01:Big Data, NoSQL and the Polyglot Persistence](#1)
     * [1.1 Key points in lecture](#1.1)
     * [1.2 Key issues in tutorial](#1.2)
@@ -37,8 +37,6 @@
 
 <h2 id="0">0 Contents</h2>
 
-<p><strong>hello world..</strong></p>
-
 <h3 id="1">Lecture 1 and 2</h3>
 
 <h4 id="1.1">1.1 Questions in week 1&2 </h4>
@@ -64,7 +62,7 @@
 <p><strong>Answer:</strong><br />
 <p></p><br />
 
-
+[`Back to Contents...`](#0)
 <h4 id="1.2">1.2 Key issues in tutorial</h4>
 <p><strong>1.2.1</strong></p>
 <p><strong>Answer:</strong><br />
@@ -91,8 +89,8 @@
 <p><strong>Answer:</strong><br />
 <p></p><br />
 
+[`Back to Contents...`](#0)
 <h3 id="2">2 Document Store: Data Model and Simple Query</h3>
-
 <h4 id="2.1">2.1 Key points in lecture</h4>
 <p><strong>2.1.1 Overview of Document Databases</strong></p>
 <p><strong>Answer:</strong><br />
@@ -136,9 +134,8 @@
 <p><strong>Answer:</strong><br />
 <p></p><br />
 
+[`Back to Contents...`](#0)
 <h3 id="3">3 MongoDB – Aggregation Framework</h3>
-
-
 <h4 id="3.1">3.1 Key points in lecture</h4>
 <p><strong>3.1.1 Review for last week</strong></p>
 <p><strong>Answer:</strong><br />
@@ -176,6 +173,7 @@
 <p><strong>3.2.3</strong></p>
 <p><strong>3.2.4</strong></p>
 
+[`Back to Contents...`](#0)
 <h3 id="4">4 Notes in week four</h3>
 <h4 id="4.1">4.1 Key points</h4>
 <p><strong>4.1.1</strong></p>
@@ -217,9 +215,8 @@
 <p><strong>Answer:.......</strong><br />
 <p></p>.....<br />
 
+[`Back to Contents...`](#0)
 <h3 id="5">5 Notes in week five</h3>
-__333__
-
 <h4 id="5.1">5.1 Key points</h4>
 <p><strong>5.1.1</strong></p>
 <p><strong>Answer:.......</strong><br />
@@ -260,8 +257,8 @@ __333__
 <p><strong>Answer:.......</strong><br />
 <p></p>.....<br />
 
+[`Back to Contents...`](#0)
 <h3 id="6">6 Notes in week six</h3>
-
 <h4 id="6.1">6.1 Key points</h4>
 <p><strong>6.1.1</strong></p>
 <p><strong>Answer:.......</strong><br />
@@ -302,6 +299,7 @@ __333__
 <p><strong>Answer:.......</strong><br />
 <p></p>.....<br />
 
+[`Back to Contents...`](#0)
 <h3 id="7">7 Notes in week seven</h3>
 <h4 id="7.1">7.1 Key points</h4>
 <p><strong>7.1.1</strong></p>
@@ -343,6 +341,7 @@ __333__
 <p><strong>Answer:.......</strong><br />
 <p></p>.....<br />
 
+[`Back to Contents...`](#0)
 <h3 id="8">8 Notes in week eight</h3>
 <h4 id="8.1">8.1 Key points</h4>
 <p><strong>8.1.1</strong></p>
@@ -384,6 +383,7 @@ __333__
 <p><strong>Answer:.......</strong><br />
 <p></p>.....<br />
 
+[`Back to Contents...`](#0)
 <h3 id="9">9 Notes in week nine</h3>
 <h4 id="9.1">9.1 Key points</h4>
 <p><strong>9.1.1</strong></p>
@@ -433,9 +433,8 @@ __333__
 <p></p>.....<br />
 <p><strong>9.2.8</strong></p>
 
+[`Back to Contents...`](#0)
 <h3 id="10">10 Notes in week ten</h3>
-__333__
-
 <h4 id="10.1">10.1 Key points</h4>
 <p><strong>10.1.1</strong></p>
 <p><strong>Answer:.......</strong><br />
@@ -473,4 +472,4 @@ __333__
 <p><strong>Answer:.......</strong><br />
 <p></p>.....<br />
 
-[BACK TO THE CONTENTS](#0)
+[`Back to Contents...`](#0)

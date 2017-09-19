@@ -34,7 +34,7 @@
 * [10.2 Key issues in tutorial](#10.2)
 
 - These notes are going to be used as materials to prepare final test.
-- Every week, finish one weeklky note;
+- Finish one by one week.
 
 <h2 id="0">0 Contents</h2>
 

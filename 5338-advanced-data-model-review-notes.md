@@ -9,7 +9,6 @@
     * [2.2 Key issues in tutorial](#2.2)
 * [3 week 03](#3)
     * [3.1 Key points in lecture](#3.1)
-    
     * [3.2 Key issues in tutorial](#3.2)
 * [4 week 04](#4)
     * [4.1 Key points in lecture](#4.1)
@@ -41,7 +40,6 @@
 <p><strong>hello world..</strong></p>
 
 <h3 id="1">1 Big Data, NoSQL and the Polyglot Persistence</h3>
-    
 <h4 id="1.1">1.1 Key points in lecture</h4>
 <p><strong>1.1.1 The Value and limitations of SQL</strong></p>
 <p><strong>1.1.2 Typical Scale-Out Options</strong></p>
@@ -68,8 +66,6 @@
 <p><strong>2.2.4</strong></p>
 
 <h3 id="3">3 MongoDB – Aggregation Framework</h3>
-
-
 <h4 id="3.1">3.1 Key points in lecture</h4>
 <p><strong>3.1.1 Review for last week</strong></p>
 <p><strong>3.1.2 Aggregation: Pipeline stages </strong></p>
@@ -82,13 +78,11 @@
 <p><strong>3.2.3</strong></p>
 <p><strong>3.2.4</strong></p>
 
-<h3 id="4">4 Notes in week four</h3>
-__333__
-
+<h3 id="4">4 MongoDB – Advanced features</h3>
 <h4 id="4.1">4.1 Key points</h4>
-<p><strong>4.1.1</strong></p>
-<p><strong>4.1.2</strong></p>
-<p><strong>4.1.3</strong></p>
+<p><strong>4.1.1 Indexing</strong></p>
+<p><strong>4.1.2 Replication</strong></p>
+<p><strong>4.1.3 Sharding</strong></p>
 <p><strong>4.1.4</strong></p>
 
 <h4 id="4.2">4.2 Key issues in tutorial</h4>
@@ -97,14 +91,13 @@ __333__
 <p><strong>4.2.3</strong></p>
 <p><strong>4.2.4</strong></p>
 
-<h3 id="5">5 Notes in week five</h3>
-__333__
-
+<h3 id="5">5 Column Store and Google Bigtable</h3>
 <h4 id="5.1">5.1 Key points</h4>
-<p><strong>5.1.1</strong></p>
-<p><strong>5.1.2</strong></p>
-<p><strong>5.1.3</strong></p>
-<p><strong>5.1.4</strong></p>
+<p><strong>5.1.1 Overview: Row Store vs. Column Store</strong></p>
+<p><strong>5.1.2 Overview: Bigtable motivation</strong></p>
+<p><strong>5.1.3 Bigtable Data model</strong></p>
+<p><strong>5.1.4 Bigtable Architecture</strong></p>
+<p><strong>5.1.5 HBase Brief Intro</strong></p>
 
 <h4 id="5.2">5.2 Key issues in tutorial</h4>
 <p><strong>5.2.1</strong></p>
@@ -112,12 +105,12 @@ __333__
 <p><strong>5.2.3</strong></p>
 <p><strong>5.2.4</strong></p>
 
-<h3 id="6">6 Notes in week six</h3>
+<h3 id="6">6 Google Spanner</h3>
 
 <h4 id="6.1">6.1 Key points</h4>
-<p><strong>6.1.1</strong></p>
-<p><strong>6.1.2</strong></p>
-<p><strong>6.1.3</strong></p>
+<p><strong>6.1.1 Motivation</strong></p>
+<p><strong>6.1.2 Structure and Data Model</strong></p>
+<p><strong>6.1.3 Distributed Query Execution</strong></p>
 <p><strong>6.1.4</strong></p>
 
 <h4 id="6.2">6.2 Key issues in tutorial</h4>
@@ -126,14 +119,13 @@ __333__
 <p><strong>6.2.3</strong></p>
 <p><strong>6.2.4</strong></p>
 
-<h3 id="7">7 Notes in week seven</h3>
-__333__
-
+<h3 id="7">7 Graph Data and Neo4j Introduction</h3>
 <h4 id="7.1">7.1 Key points</h4>
-<p><strong>7.1.1</strong></p>
-<p><strong>7.1.2</strong></p>
-<p><strong>7.1.3</strong></p>
-<p><strong>7.1.4</strong></p>
+<p><strong>7.1.1 Brief Review of Graphs</strong></p>
+<p><strong>7.1.2 Examples of Graph Data</strong></p>
+<p><strong>7.1.3 Modelling Graph Data</strong></p>
+<p><strong>7.1.4 Property Graph Model</strong></p>
+<p><strong>7.1.5 Cypher Query</strong></p>
 
 <h4 id="7.2">7.2 Key issues in tutorial</h4>
 <p><strong>7.2.1</strong></p>
@@ -141,13 +133,11 @@ __333__
 <p><strong>7.2.3</strong></p>
 <p><strong>7.2.4</strong></p>
 
-<h3 id="8">8 Notes in week eight</h3>
-__333__
-
+<h3 id="8">8 Neo4j Internal and Data Modeling</h3>
 <h4 id="8.1">8.1 Key points</h4>
-<p><strong>8.1.1</strong></p>
-<p><strong>8.1.2</strong></p>
-<p><strong>8.1.3</strong></p>
+<p><strong>8.1.1 Neo4j Storage</strong></p>
+<p><strong>8.1.2 Neo4j Query Plan and Indexing</strong></p>
+<p><strong>8.1.3 Neo4j – Data Modeling</strong></p>
 <p><strong>8.1.4</strong></p>
 
 <h4 id="8.2">8.2 Key issues in tutorial</h4>

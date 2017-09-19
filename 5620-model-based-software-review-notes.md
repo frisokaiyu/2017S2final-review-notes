@@ -1,34 +1,34 @@
 # 5620-model-based-software-review-notes
 ## Weekly lecture notes
 * [0 `Contents`](#0)
-* [1 week 01: Architecture Introduction](#1)
+* [1 week 01 and 02: Architecture Introduction/MBSE Introduction](#1)
     * [1.1 Key points in lecture](#1.1)
     * [1.2 Key issues in tutorial](#1.2)
-    * [2 week 02: MBSE Introduction](#2)
+* [2 week 03: Requirements Modeling](#2)
     * [2.1 Key points in lecture](#2.1)
     * [2.2 Key issues in tutorial](#2.2)
-    * [3 week 03: Requirements Modeling](#3)
+* [3 week 04: Architecture Modeling](#3)
     * [3.1 Key points in lecture](#3.1)
     * [3.2 Key issues in tutorial](#3.2)
-    * [4 week 04: Architecture Modeling](#4)
+* [4 week 05 and 06: Modeling Structure/Modeling Behaviour](#4)
     * [4.1 Key points in lecture](#4.1)
     * [4.2 Key issues in tutorial](#4.2)
-    * [5 week 05: Modeling Structure](#5)
+* [5 week 07 and 08: Model Organization and Metamodeling](#5)
     * [5.1 Key points in lecture](#5.1)
     * [5.2 Key issues in tutorial](#5.2)
-    * [6 week 06: Modeling Behaviour](#6)
+* [6 week 09: ](#6)
     * [6.1 Key points in lecture](#6.1)
     * [6.2 Key issues in tutorial](#6.2)
-    * [7 week 07: Model Organization and Metamodeling](#7)
+* [7 week 10: ](#7)
     * [7.1 Key points in lecture](#7.1)
     * [7.2 Key issues in tutorial](#7.2)
-* [8 week 08](#8)
+* [8 week 11](#8)
     * [8.1 Key points in lecture](#8.1)
     * [8.2 Key issues in tutorial](#8.2)
-* [9 week 09](#9)
+* [9 week 12](#9)
     * [9.1 Key points in lecture](#9.1)
     * [9.2 Key issues in tutorial](#9.2)
-* [10 week 10](#10)
+* [10 week 13](#10)
     * [10.1 Key points in lecture](#10.1)
     * [10.2 Key issues in tutorial](#10.2)
 
@@ -155,7 +155,7 @@
 <p><strong>3.2.4</strong></p>
 
 [`Back to last question...`](#2)[`Back to Contents...`](#0)
-<h3 id="4">4 Questions in week 5&6</h3>
+<h3 id="4">Lecture 5&6</h3>
 <h4 id="4.1">4.1 Key points</h4>
 <p><strong>4.1.1 What does structure modeling deal with?</strong></p>
 <p><strong>Answer:.......</strong><br />
@@ -191,7 +191,7 @@
 <p></p>.....<br />
 
 [`Back to last question...`](#3)[`Back to Contents...`](#0)
-<h3 id="5">5 Questions in week 7&8</h3>
+<h3 id="5">Lecture 7&8</h3>
 <h4 id="5.1">5.1 Key points</h4>
 <p><strong>5.1.1 What is Namespace?</strong></p>
 <p><strong>Answer:.......</strong><br />
@@ -228,7 +228,7 @@
 <p></p>.....<br />
 
 [`Back to last question...`](#4)[`Back to Contents...`](#0)
-<h3 id="6">6 Notes in week 9</h3>
+<h3 id="6">Lecture 9</h3>
 <h4 id="6.1">6.1 Key points</h4>
 <p><strong>6.1.1</strong></p>
 <p><strong>Answer:.......</strong><br />
@@ -270,7 +270,7 @@
 <p></p>.....<br />
 
 [`Back to last question...`](#5)[`Back to Contents...`](#0)
-<h3 id="7">7 Notes in week 10</h3>
+<h3 id="7">Lecture 10</h3>
 <h4 id="7.1">7.1 Key points</h4>
 <p><strong>7.1.1</strong></p>
 <p><strong>Answer:.......</strong><br />
@@ -312,7 +312,7 @@
 <p></p>.....<br />
 
 [`Back to last question...`](#6)[`Back to Contents...`](#0)
-<h3 id="8">8 Notes in week 11</h3>
+<h3 id="8">Lecture 11</h3>
 <h4 id="8.1">8.1 Key points</h4>
 <p><strong>8.1.1</strong></p>
 <p><strong>Answer:.......</strong><br />
@@ -354,7 +354,7 @@
 <p></p>.....<br />
 
 [`Back to last question...`](#7)[`Back to Contents...`](#0)
-<h3 id="9">9 Notes in week 12</h3>
+<h3 id="9">Lecture 12</h3>
 <h4 id="9.1">9.1 Key points</h4>
 <p><strong>9.1.1</strong></p>
 <p><strong>Answer:.......</strong><br />
@@ -404,7 +404,7 @@
 <p><strong>9.2.8</strong></p>
 
 [`Back to last question...`](#8)[`Back to Contents...`](#0)
-<h3 id="10">10 Notes in week 13</h3>
+<h3 id="10">Lecture 13</h3>
 <h4 id="10.1">10.1 Key points</h4>
 <p><strong>10.1.1</strong></p>
 <p><strong>Answer:.......</strong><br />

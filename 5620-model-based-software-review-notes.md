@@ -1,6 +1,6 @@
 # 5620-model-based-software-review-notes
 ## Weekly lecture notes
-* [0 Contents](#0)<span id="back2contents">Back to Contents</span>
+* [0 Contents](#0)
 * [1 week 01:Big Data, NoSQL and the Polyglot Persistence](#1)
     * [1.1 Key points in lecture](#1.1)
     * [1.2 Key issues in tutorial](#1.2)
@@ -473,4 +473,4 @@ __333__
 <p><strong>Answer:.......</strong><br />
 <p></p>.....<br />
 
-[BACK TO THE CONTENTS](#back2contents)
+[BACK TO THE CONTENTS](#0)

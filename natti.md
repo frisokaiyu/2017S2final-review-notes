@@ -23,7 +23,6 @@
 ### Case 02：
 ```
 ```
-
 [`Back to Contents`](#0)
 ## "Or" 的翻译方法
 ### Case 01：

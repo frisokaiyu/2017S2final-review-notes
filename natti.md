@@ -13,8 +13,8 @@
 [5 "As" 的翻译方法](#5)
 
 [6 "It is said that...." 的翻译方法](#6)
-
-## 1 "And" 的翻译方法
+<h1 id=0>0 Contents</h1>
+<h2 id=1>1 "And" 的翻译方法</h2>
 ### Case 01：
 ```
 
@@ -30,7 +30,7 @@
 ### Case 02：
 ```
 ```
-[`Back to Contents`](#1)
+[`Back to Contents`](#0)
 ## "While" 翻译方法
 ### Case 01：
 ```

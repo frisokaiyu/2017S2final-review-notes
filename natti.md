@@ -1,4 +1,4 @@
-# Natti notes
+# Natti Notes
 
 *[0 Contents](#0)
 
@@ -17,6 +17,7 @@
 ## 1 "And" 的翻译方法
 ### Case 01：
 ```
+
 ```
 ### Case 02：
 ```

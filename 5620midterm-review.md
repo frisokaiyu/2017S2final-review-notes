@@ -1,6 +1,6 @@
 ## Mid-Term Review – W1,2
 ### 1. What is software architecture? Why is it important?
-The software architecture of a system is the set of structures needed to reason about the system, which comprise software element, relations among them, and properties of both. (Clements, Bass, Kazman 2012)
+The software architecture of a system is the set of structures needed to reason about the system, which comprise--包含 software element, relations among them, and properties of both. (Clements, Bass, Kazman 2012)
 
 #### The architecture is a carrier of the earliest design decisions.
 - An architecture will inhibit a system’s driving quality attributes and the early prediction.

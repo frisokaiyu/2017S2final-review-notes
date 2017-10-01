@@ -232,12 +232,12 @@ A model that specifies the abstract syntax of that modeling language and defines
 
 ### 3. What is Meta Modeling Language?
 #### Meta model and Meta Modeling Language:
-![metamodel01.png]
-![metamodel02.png]
-![metamodel03.png]
-![metamodel04.png]
-![metamodel05.png]
-![metamodel06.png]
+![metamodel01.png](https://github.com/frisokaiyu/2017S2final-review-notes/blob/master/metamodel01.png)
+![metamodel02.png](https://github.com/frisokaiyu/2017S2final-review-notes/blob/master/metamodel02.png)
+![metamodel03.png](https://github.com/frisokaiyu/2017S2final-review-notes/blob/master/metamodel03.png)
+![metamodel04.png](https://github.com/frisokaiyu/2017S2final-review-notes/blob/master/metamodel04.png)
+![metamodel05.png](https://github.com/frisokaiyu/2017S2final-review-notes/blob/master/metamodel05.png)
+![metamodel06.png](https://github.com/frisokaiyu/2017S2final-review-notes/blob/master/metamodel06.png)
 
 ### 4. What is Abstract Syntax and Concrete Syntax in UML?
 **(1) Abstract Syntax**

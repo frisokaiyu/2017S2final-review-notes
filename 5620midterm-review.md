@@ -231,6 +231,13 @@ A namespace is a collection of owned model elements that may be identified by th
 A model that specifies the abstract syntax of that modeling language and defines the rules for well-formed models independently of the concrete syntax. 
 
 ### 3. What is Meta Modeling Language?
+#### Meta model and Meta Modeling Language:
+![metamodel01.png]
+![metamodel02.png]
+![metamodel03.png]
+![metamodel04.png]
+![metamodel05.png]
+![metamodel06.png]
 
 ### 4. What is Abstract Syntax and Concrete Syntax in UML?
 **(1) Abstract Syntax**

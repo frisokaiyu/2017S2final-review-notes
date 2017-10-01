@@ -115,7 +115,7 @@ It is common practice to categorize requirements as being either **functional** 
 - Facilitate agreement
 - Being a collection of possible scenarios, a use case is similar to a class 
 
-### 7. What are the key elements in Cockburn’s Use Case Approach?
+### 7. What are the key elements in "Cockburn’s Use Case" Approach?
 #### Use cases are motivated by (and defined around) actor goals:
 - Use cases start with an action by an actor (trigger)
 - Use cases always terminate with a clear result: the desired goal has or has not been achieved
@@ -129,10 +129,10 @@ It is common practice to categorize requirements as being either **functional** 
 ### 1. What is architecture of a system?
 The fundamental concepts or properties of a system in its environment embodied in its elements, relationships, and in the principles of its design and evolution.
  
-### 2. What are the viewpoints used in Kruchten’s “4+1” approach? Which of these viewpoints are independent of the underlying implementation technology?
+### 2. What are the viewpoints used in "Kruchten’s" “4+1” approach? Which of these viewpoints are independent of the underlying implementation technology?
 **4 views that capture the system + 1 that captures the requirements**
 - Each view describes different aspects of the system
-- Full system specification is obtained by a union of the individual views**
+- Full system specification is obtained by a union of the individual views
 - **Logical Viewpoint:**
 What the system does specified by an abstract design model (e.g., classes and associations, subsystems, etc.)
 - **Process Viewpoint:**
@@ -167,6 +167,7 @@ The dynamic organization of instances created by an executing computer program (
 **Separate control from function:**
 - separate control components from functional components
 - separate control from functional interfaces
+
 **Centralize control (decision making):**
 - if possible, focus control in one component place control policies in the control components and control mechanisms inside the controlled components 
 

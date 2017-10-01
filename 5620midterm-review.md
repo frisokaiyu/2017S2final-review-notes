@@ -103,7 +103,7 @@ The process of discovering **the purpose** of a **software system** by identifyi
 ### 5. What are the differences between functional and nonfunctional requirements?
 It is common practice to categorize requirements as being either **functional** or **non-functional**:
 
-#### Common rationale: functional => what non-functional = how well.
+#### Common rationale: functional => what ::: non-functional = how well.
 - A functional requirement describes what a software system should do, while non-functional requirements place constraints on how the system will do so.
 - functional requirements related to the system functionalities.
 - non-functional requirements related to the system’s performance characteristics, such as accessibility, reliability.

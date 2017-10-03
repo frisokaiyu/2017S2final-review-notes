@@ -3,19 +3,19 @@
 The software architecture of a system is the set of structures needed to reason about the system, which comprise software element, relations among them, and properties of both. (Clements, Bass, Kazman 2012)
 
 #### The architecture is a carrier of the earliest design decisions.
-- An architecture will inhibit a system’s driving quality attributes and the early prediction.
+- An architecture will inhibit a **system’s driving quality attributes** and the **early prediction**.
 - Provides reasoning about managing changes.
-- An architecture will improve cost and schedule estimates.
+- An architecture will **improve cost and schedule estimates**.
 - Architecture-based development focuses on the assembly of components
-- A documented architecture enhances communication among stakeholders.
-- An architecture is a transferable and reusable model.
+- A documented architecture **enhances communication among stakeholders**.
+- An architecture is a **transferable and reusable model**.
 
 ### 2. In what phases of software development does architecture play a crucial role?
 
 #### During inception and design
 - Facilitates system consistency and simplifies design
 - Helps predict key system qualities.
-- Helps identify requirements!
+- Helps identify requirements.
 #### During implementation
 - Helps identification and allocation of development work
 - Guides finer-grained design decisions

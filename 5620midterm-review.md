@@ -1,6 +1,6 @@
 ## Mid-Term Review – W1,2
 ### 1. What is software architecture? Why is it important?
-The software architecture of a system is the set of structures needed to reason about the system, which comprise software element, relations among them, and properties of both. (Clements, Bass, Kazman 2012)
+The software architecture of a system is the **set of structures** needed to **reason** about the system, which **comprises software elements, relations among them, and properties of both**. (Clements, Bass, Kazman 2012)
 
 #### The architecture is a carrier of the earliest design decisions.
 - An architecture will inhibit a **system’s driving quality attributes** and the **early prediction**.
@@ -41,8 +41,8 @@ The gradual corruption of architectural design decisions through seemingly minor
 - is used for a purpose planning, design, risk analysis, testing 
 
 #### Software model: An engineering model (specified using a modeling language) of some software that represents:
-- Design-time views of the software: The structure and content of the software specification
-- Run-time views of the software: the structure and behavior of the software in execution 
+- **Design-time views** of the software: The structure and content of the software specification
+- **Run-time view**s of the software: the structure and behavior of the software in execution 
 
 ### 5. What are the primary reasons for constructing models in engineering?
 - To understand the interesting characteristics of an existing or desired (complex) system and its environment
@@ -62,18 +62,18 @@ A highly desirable objective
 
 ### 1. What is software requirements engineering?
 The process of discovering **the purpose** of a **software system** by identifying stakeholders and their needs and documenting these in a form that is amenable to analysis, communication, and subsequent implementation.
-- Eliciting requirements
-- Modelling and analysing requirements
-- Communicating requirements
-- Agreeing requirements
-- Evolving requirements 
+- **Eliciting** requirements
+- **Modelling and analysing** requirements
+- **Communicating** requirements
+- **Agreeing** requirements
+- **Evolving** requirements 
 
 ### 2. What are the common issues in requirement statement?
-- Ambiguity
-- Incompleteness
-- Conflict
-- Difference in priority
-- Perceived stakeholders urgency to realise. 
+1. Ambiguity
+2. Incompleteness
+3. Conflict
+4. Difference in priority
+5. Perceived stakeholders urgency to realise. 
 
 ### 3. What are the common approaches to specify requirements?
 
@@ -155,9 +155,9 @@ Mapping of modules to platform specific runtime entities (threads, processes, et
 The allocation and deployment of module view entities to actual platform entities.
 
 ### 4. Which of these viewpoints are design-time viewpoints and runtime viewpoints?
-- Design-time view:
+- **Design-time view:**
 The static organization of the system specification in a design repository 
-- Run-time view:
+- **Run-time view:**
 The dynamic organization of instances created by an executing computer program (a specification)
 
 ### 5. What is control behaviour in architecture? What are the main design principles?
@@ -165,14 +165,17 @@ The dynamic organization of instances created by an executing computer program (
 **Control behavior** is often treated in an ad-hoc manner, since it is not part of the primary system functionality, typically retrofitted into the framework optimized for the functional behavior.
 
 **Separate control from function:**
-- separate control components from functional components
-- separate control from functional interfaces
+
+- separate control components from **functional components**
+- separate control from **functional interfaces**
 
 **Centralize control (decision making):**
-- if possible, focus control in one component place control policies in the control components and control mechanisms inside the controlled components 
+
+- if possible, focus control in one component and place control **policies** in the control **components** and control **mechanisms** inside the controlled components 
 
 ### 6. Why are architectural design patterns important?
 Defines types of elements and relationships that work together in order to solve a particular problem from some perspective (viewpoints).
+
 - Recurring common situation – the context
 - The problem that arises in the given context.
 - Reused solution to a recurring design problem 
@@ -190,6 +193,7 @@ Defines types of elements and relationships that work together in order to solve
 
 ### 1. What does structure modeling deal with?
 Structure modeling deals with the representation of entities that take up space (ultimately, physical) and, which have state and may have behaviour：
+
 - Specifically, modeling of Run-time instances (e.g., objects) and their relationships (e.g., links) and 
 - Specifications of those run-time entities (e.g., classes, collaborations) and relationships (e.g., associations)
 - In UML: two categories of structural entities
@@ -254,7 +258,7 @@ A model that specifies the abstract syntax of that modeling language and defines
 ### 5. How to specialize UML?
 UML has a built-in language specialization kit: the **profile mechanism**. It allows domain-specific interpretations of UML models which are compatible with general (standard) UML, which implies the ability to reuse UML tools, expertise, etc.
  
-### 6. What is UML profile? How is it defined?
+### 6. What is UML profile? How is it defined
 (1) A profile in UML provides a generic extension mechanism for customizing UML models for particular domains and platforms.<br \>
 (2) Profiles are defined using stereotypes, tag definitions and constraints.<br \>
 (3) Profiles can be used for two different purposes:

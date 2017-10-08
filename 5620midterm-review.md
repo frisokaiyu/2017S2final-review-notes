@@ -246,12 +246,17 @@ A model that specifies the abstract syntax of that modeling language and defines
 
 ### 4. What is Abstract Syntax and Concrete Syntax in UML?
 **(1) Abstract Syntax**
+
 - Concepts, their features, and mutual relationships
 - Described by a MOF metamodel + additional constraints
+
 **(2) Concrete Syntax**
+
 - Notation (diagrams, text, tables, graphical representation)
 - UML concrete syntax definition is incomplete and informally defined
+
 **(3) Language Semantics**
+
 - The meaning of UML models and the concepts used to express them
 - English (+ UML model + mathematical model) 
 

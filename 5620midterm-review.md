@@ -259,16 +259,17 @@ A model that specifies the abstract syntax of that modeling language and defines
 UML has a built-in language specialization kit: the **profile mechanism**. It allows domain-specific interpretations of UML models which are compatible with general (standard) UML, which implies the ability to reuse UML tools, expertise, etc.
  
 ### 6. What is UML profile? How is it defined
-(1) A profile in UML provides a generic extension mechanism for customizing UML models for particular domains and platforms.<br \>
-(2) Profiles are defined using stereotypes, tag definitions and constraints.<br \>
-(3) Profiles can be used for two different purposes:
-- To define a domain-specific modeling language;
-- To define a domain-specific viewpoint that can be overlaid onto an existing model = a way of reinterpreting the original model.<br \>
-(4) A profile customizes UML for a particular domain.
-- SysML: system engineering application;
-- MARTE: real-time and embeded applications.
+- A profile in UML provides a generic extension mechanism for customizing UML models for particular domains and platforms.
+- Profiles are defined using stereotypes, tag definitions and constraints.
+- Profiles can be used for two different purposes:
+	- To define a domain-specific modeling language;
+	- To define a domain-specific viewpoint that can be overlaid onto an existing model = a way of reinterpreting the original model.
+- A profile customizes UML for a particular domain.
+	- SysML: system engineering application;
+	- MARTE: real-time and embeded applications.
 
 ### 7. What is a stereotype in UML?
 A stereotype allows designers to extend the vocabulary of UML in order to create new model elements, derived from existing one.
+
 - Have specific properties suitable for a particular problem domain.
 - Properties of a stereotype are referred to as tag definitions. 

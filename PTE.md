@@ -10,6 +10,10 @@
 
 [4 Reading skills](#4)
 
+[5 Sharing experience](#5)
+
+[6 Templates](#6)
+
 <h1 id=0>0 Contents</h1>
 <h2 id=1>Speaking skills</h2>
 
@@ -159,6 +163,102 @@ Summarisewritten task：这一部分基本上不难，但是开始的话不熟�
 ### 经验2 ###
 
 [`Back to Contents`](#0)
+
+<h2 id=6> Templates </h2>
+PTE 模板
+Line & Bar graph 含有一个变量：
+1. 第一句：读标题
+This is a line/bar graph showing the (changes of) 标题
+2. 第二句：横纵坐标
+The abscissa represents the 横坐标标题 and the ordinate
+represents the 纵坐标标题 in the unit of ***（million dollars/            percentage/cubic meter/square meter/…..）
+3. 第三句：最大最小值
+The greatest figure comes from **, which is **, and the smallest        figure comes from **, which is **. （数据没来得及看全的话就说        around多少)
+The greatest increase in ** comes from **, the figure increased         from ** to **, while the greatest decrease comes from **, the           figure decreased from ** to **.
+4. 趋势：
+From ** to **, it is an increasing/a decreasing trend.
+            Groups：For ** and **/ For all ** except **, the figures are             more/less than **.
+            5. 总结句：
+            In conclusion, 重复第一句。
+                         
+             Line & Bar graph 含有多个变量：
+             第一句: This is a line/bar graph showing the (changes of) 标题
+             2. 第二句：变化最小：The figure of ** remains the same/fluctuates around **/ from ** to **.
+             3. 第三句：变化最大：The greatest increase/decrease comes from **, the figure increases/decreases from ** to **.
+             4. 或者：For A, the figure starts from ** in **, and increased/decreased to ** in **.
+              For B, the figure starts from ** in **, and increased/decreased to ** in **.
+              5. 第四句：For **, it is an increasing/decreasing trend.
+              6. 总结句：In conclusion, 重复第一句。
+                              
+                Timetable:
+                第一句：
+                This is a school timetable for Monday in Semester 1.
+                The lecture of ** starts from **, then the lecture of ** starts from **,    after that, it is ** starts from **, and then it is ** from ** to **, at        last, it is ** starts from **. All the classes finish at **.
+                In summary….
+                                 
+                 Table：
+                 第二句：the first column is called…, the second column is called……
+                 如果内容句可以说三句：最大上升，最大下降，groups，那么就不介绍column name。
+                                    
+                   Pie chart（找最大最小值）
+                   This is a pie chart showing ……
+                   For A, the largest proportion comes from *, the figure is *，followed by **, the figure is **…
+                   For B, the largest proportion comes from *, the figure is *，followed by **, the figure is **…
+                   In conclusion, ……
+                                        
+                     Describe image：
+                     1,  第一句：This is a picture showing ** (the location of ***)概括一下看到的东西
+                     2,  第二句：On the left hand side, it is a **, it is made of **。
+                                      On the right hand side, it is a **, it is made of **。
+                                      4， 第三句：比较：The left hand side ** is a modern building, it is much taller than the building on right hand side, and the right hand side building is old fashioned.
+                                      5， 扯点图片背景： in the background, it is ***(blue sky...) 
+                                      6， 总结句：In conclusion, 重复第一句。
+                                                                              
+                                        Map（描述地理位置）
+                                        1,  第一句：This is a map/ floorplan showing ** (the location/layout of ***)概括一下看到的东西
+                                        2,  中间句：On the left/right hand side, it is a building named ***.
+                                                         In the middle, there is a round building named ***.
+                                                         3，总结句：In conclusion, 重复第一句
+                                                                                                                   
+                                                          Map（描述颜色占比）
+                                                          1， 第一句：This is a map showing ** 题目
+                                                          2， 第二句：The map is mostly occupied by (colour) which represents ***, you can find *** in ***.
+                                                          3， 第三句：第二大数据：And then followed by (colour) which represents ***, you can find *** in ***.
+                                                          4， 第四句：最小数据：The map is least occupied by (colour) which represents ***, you can find *** in ***.
+                                                          5， 第五句：In conclusion, 重复第一句。
+                                                                                                                     
+                                                           Flowchart
+                                                           1， 第一句：This is a flow chart showing ***
+                                                           2， 中间句：From the beginning, it is a ***. In the next stage, it becomes ***. Then it becomes ***, and finally it becomes ***.
+                                                           3， 总结句：In conclusion, 重复第一句
+                                                           
+                                                           Life Cycle
+                                                           1， 第一句：This is a diagram showing the life cycle of ***
+                                                           2， 中间句：From the beginning it is a ***, then it becomes ***, and then it grows into a ***, and finally it becomes ***.
+                                                           
+                                                           3， 总结句：In conclusion, 重复第一句
+                                                           
+                                                           Retell lecture模板
+                                                                                                                       
+                                                            写作模板
+                                                            Introduction:
+                                                            These days, there is an ongoing debate about (主要争论点). While it is possible to claim that (让步), my view is that (自己的观点). In this essay, I would explain my point of view by analyzing both sides of the argument.
+                                                            
+                                                            First paragraph:
+                                                            On the one hand, there are several solid reasons why (中心词、词组、短语) are considered to be advantageous.
+                                                            One of them is that (第一正面论点).
+                                                            Also, it should be taken into account that (第二正面论点).
+                                                            Moreover, it can also be argued that (第三正面论点，根据字数选择删加).
+                                                                                                                         
+                                                             Second paragraph:
+                                                             On the other hand, those who argue against (中心词、词组、短语) hold a different view.
+                                                             Firstly, it is claimed that (第一反面论点)
+                                                             Secondly, there are concerns about (第二反面论点).
+                                                             
+                                                             Conclusion:
+                                                             In conclusion, while there are strong arguments on both sides of the case, I firmly believe that (自己的观点，区别于第一段，换一种方式表述).
+                                                             
+
 
 
 
